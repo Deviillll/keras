@@ -1,0 +1,11 @@
+# Ignore Python bytecode
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+myenv/
+.env/
+
+# Ignore IDE settings
+.vscode/
+.idea/
